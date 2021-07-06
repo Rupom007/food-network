@@ -87,6 +87,17 @@ body{
     border-radius: 20px;
 
 }
+.card-text p{
+    font-weight: bold;
+}
+.btn-style-order{
+    text-decoration: none;
+    background-image: linear-gradient(75deg, darkorange, orangered);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 35px;
+    font-size: 20px;
+}
 
 /* social---section */
 
