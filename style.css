@@ -87,7 +87,7 @@ body{
     border-radius: 20px;
 
 }
-.card-text p{
+.price-tag{
     font-weight: bold;
 }
 .btn-style-order{
